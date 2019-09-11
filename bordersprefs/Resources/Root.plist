@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>lily</string>
+			<key>user</key>
+			<string>lilyshibe</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>toys.lily.borderprefs</string>
+			<key>label</key>
+			<string>enabled</string>
+			<key>key</key>
+			<string>enabled</string>
+			<key>alternateColors</key>
+			<true/>
+			<key>PostNotification</key>
+			<string>toys.lily.borderprefs/ReloadPrefs</string>
+		</dict>
+		<!-- <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>borders</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>cellClass</key>
+    		<string>HBDiscreteSliderTableCell</string>
+			<key>default</key>
+			<real>10</real>
+			<key>defaults</key>
+			<string>toys.lily.bordersprefs</string>
+			<key>min</key>
+			<real>0</real>
+			<key>max</key>
+			<real>50</real>
+			<key>showValue</key>
+			<true />
+			<key>key</key>
+			<string>borderradius</string>
+			<key>label</key>
+			<string>border radius</string>
+			<key>PostNotification</key>
+			<string>toys.lily.borderprefs/ReloadPrefs</string>
+		</dict> -->
+	</array>
+	<key>title</key>
+	<string>borders</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+Package: toys.lily.borders
+Name: borders
+Depends: mobilesubstrate, ws.hbang.common
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: adds screen border radius
+Maintainer: lillian rose winter
+Author: lillian rose winter
+Section: Tweaks
